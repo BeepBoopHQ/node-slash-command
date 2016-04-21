@@ -1,0 +1,5 @@
+name: Sample Slack Slash Command
+description: Node Slack slash command example
+avatar: images/avatar.jpg
+slackscopes:
+  - commands
