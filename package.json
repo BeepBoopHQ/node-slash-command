@@ -1,0 +1,32 @@
+{
+  "name": "node-slash-command",
+  "version": "0.0.0",
+  "description": "Node Slack slash command example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeepBoopHQ/node-slash-command.git"
+  },
+  "keywords": [
+    "slack",
+    "slash",
+    "command"
+  ],
+  "author": "Brad Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeepBoopHQ/node-slash-command/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "standard": "^6.0.8"
+  }
+}
